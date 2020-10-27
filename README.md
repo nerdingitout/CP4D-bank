@@ -26,7 +26,7 @@ In this project we are using German credit data set: https://online.stat.psu.edu
 4. Built Auto AI Experiment for Loan Prediction. Works with 0.81 accuracy, results are good so far.
 5. Deployed Auto AI on WML (current deployment name: hgjhhjjmhjhkjhkjhk)
 
-###Step 2
+### Step 2
 1. We are working on building a recommendation system based of the notebook: https://github.com/IBM/product-recommendation-with-watson-ml
 2. In the notebook we edited the first 2 sections to have our data set. 
 3. In the prepare data section, we added an ID column to our data. 
