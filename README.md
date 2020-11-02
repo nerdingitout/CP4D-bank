@@ -27,8 +27,16 @@ In this project we are using German credit data set: https://online.stat.psu.edu
 5. Deployed Auto AI on WML (current deployment name: hgjhhjjmhjhkjhkjhk)
 
 ### Step 2
-1. We are working on building a recommendation system based of the notebook: https://github.com/IBM/product-recommendation-with-watson-ml
+1. We built a recommendation system based of the notebook: https://github.com/IBM/product-recommendation-with-watson-ml
 2. In the notebook we edited the first 2 sections to have our data set. 
 3. In the prepare data section, we added an ID column to our data. 
 4. We are using the columns: 
-5. We will put 
+5. 
+
+### Step 3
+In this step we mainly focused on building the Loan Assistant with Watson Assistant. Skill can be found in the "loan-skill.json" file.<br>
+The assistant can do the following:
+- Predict whether user is eligible for loans by asking them a series of questions and then passing into Cloud functions to get results based on the auto ai model we built earlier.
+- Recommend Loans for users based on their data.
+- Users can apply for loans if they are eligible or can ask more information about how to apply for loan or check required documents.
+- Help users with general FAQ questions about loans.
