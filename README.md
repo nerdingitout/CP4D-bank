@@ -1,5 +1,5 @@
 # CP4D-bank
-# Description
+## Description
 This demo aims to automate the banking experience for customers regarding loans on Cloud Pak for Data using Watson Studio, Watson Knowledge Catalog, & Watson Assistant. The project is currently built on the cloud, this documentation aims to provide step-by-step details to implement the same on CP4D on any infrastructure.
 ### Features
 - User can interact with the system using a web application or through Watson Assistant
@@ -9,13 +9,13 @@ This demo aims to automate the banking experience for customers regarding loans 
 - Two ML models:
   - Loan Prediction model, using Auto AI, to predict user eligibility for loan
   - Recommendation system, python notebook, recommend specific loans for users and how to be eligible for loan
-### Demo
-Demo is currently in progress but can be found <a href="https://cpd-intelligent-loan-agent-app-masa-anam.eu-gb.mybluemix.net/">here</a> and the assistant can be found <a href="https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=a8294af6-dad3-4c5a-b847-669240a31e82&serviceInstanceID=9735eb72-41b7-4552-9b39-aa1badb7e835">here</a>
-# Collect
+## Demo
+Demo is currently in progress but can be found <a href="https://cpd-intelligent-loan-agent-app-masa-anam.eu-gb.mybluemix.net/">here</a> and the assistant can be found <a href="https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=us-south&integrationID=a8294af6-dad3-4c5a-b847-669240a31e82&serviceInstanceID=9735eb72-41b7-4552-9b39-aa1badb7e835">here</a>.
+## Collect
 In this project we are using German credit data set: https://online.stat.psu.edu/stat857/node/215/
-<!-- # Organize
-# Analyze 
-# Infuse
+<!-- ## Organize
+## Analyze 
+## Infuse
 -->
 
 
